@@ -1,1 +1,1 @@
-console.log("Hola ale")
+const suma = (a, b) => a + b;
